@@ -1,0 +1,12 @@
+# 56 Card Game Requirements
+
+# Web interface
+streamlit>=1.28.0
+
+# For enhanced CLI (optional):
+# colorama>=0.4.0
+# rich>=10.0.0
+
+# For AI players (future):
+# numpy>=1.20.0
+# scikit-learn>=1.0.0
